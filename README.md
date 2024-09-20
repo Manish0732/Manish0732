@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Manish!<br><br>- 👀 I’m passionate about Software Development.<br>- 🌱 I’m currently learning MERN Stack Development to build efficient and scalable web applications.<br>- 💞️ I’m looking to collaborate on complex projects, especially in Web Development and Backend Engineering.<br>- 📫 How to reach me:<br>  - [Email](mailto:manishjoshi0732@gmail.com)<br>  - [LinkedIn](https://linkedin.com/in/manish-joshi-470875222)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I’m a casual gamer 🎮! You’ll often find me playing BGMI or Call of Duty.<br><br>Let’s connect and build something awesome together 🚀!<br>
+Hi there 👋, I'm Manish!<br><br>- 👀 I’m passionate about Software Development.<br>- 🌱 I’m currently learning MERN Stack Development to build efficient and scalable web applications.<br>- 💞️ I’m looking to collaborate on complex projects, especially in Web Development and Backend Engineering.<br>- 📫 How to reach me: [Email](mailto:manishjoshi0732@gmail.com) <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I’m a casual gamer 🎮! You’ll often find me playing BGMI or Call of Duty.<br><br>Let’s connect and build something awesome together 🚀!<br>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,10 @@ Hi there 👋, I'm Manish!<br><br>- 👀 I’m passionate about Software Develop
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=manish0732&icon=1&color=1)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
